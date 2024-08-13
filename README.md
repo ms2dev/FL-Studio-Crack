@@ -4,13 +4,14 @@
 
 ## 下载链接
 
-- `Win`**FL Studio Producer Edition v21.1.1 [build 3750]-All Plugins Edition Windows-64Bit**  
+- `Win`  **FL Studio Producer Edition v21.1.1 [build 3750]-All Plugins Edition Windows-64Bit**  
   `magnet:?xt=urn:btih:B3B69DD393190401EE77EB68C1644FB97B11A7D6`
 
-- `Mac`**FL Studio v20.8.3 [build 1574]** (来源于[AudioTools](https://audiotools.in/2021/11/09/flstudio-v20-8-3-1574-macos-12/)
+- `Mac`  **FL Studio v20.8.3 [build 1574]** (来源于[AudioTools](https://audiotools.in/2021/11/09/flstudio-v20-8-3-1574-macos-12/))
 
-  `magnet:?xt=urn:btih:9DFBC445849C11D8C1761615286DE510EE289F48`
-
+- `Win·  **FL Studio Producer Edition v21.1.1 [build 3750]-All Plugins Edition Windows-64Bit**  
+  ·magnet:?xt=urn:btih:7C922F89C84DF9D65177C91D43F201BF6383B02F·
+  (来源于[AudioTools](https://audiotools.in/2021/08/05/flstudio-v20-8-3-2304-win-mac/))
 ## 声明
 
 本项目所提供的资源链接均来源于**网络**，有能力请支持正版软件，享受完整功能与服务。
