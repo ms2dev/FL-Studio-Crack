@@ -1,10 +1,10 @@
 # FL Studio 破解版整合
 
-欢迎来到 FL Studio 整合项目！提供 FL Studio 21.1.1 Build 3750 版本的下载资源，支持 Windows 和 Mac 系统。
+欢迎来到 FL Studio 破解版整合项目！提供FL Studio各版本的下载资源，支持 Windows 和 Mac 。
 
 ## 下载链接
 
-- **(Win/Mac) FL Studio 21.1.1 Build 3750**  
+- **FL Studio Producer Edition v21.1.1 [build 3750]-All Plugins Edition Windows-64Bit**  
   `magnet:?xt=urn:btih:B3B69DD393190401EE77EB68C1644FB97B11A7D6`
 
 ## 声明
