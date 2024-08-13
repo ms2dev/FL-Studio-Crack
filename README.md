@@ -9,7 +9,7 @@
 
 - `Mac`  **FL Studio v20.8.3 [build 1574]** (来源于[AudioTools](https://audiotools.in/2021/11/09/flstudio-v20-8-3-1574-macos-12/))
 
-- `Win`  **FL Studio Producer Edition v21.1.1 [build 3750]-All Plugins Edition Windows-64Bit**  
+- `Win-Mac`  **FL Studio Producer Edition v21.1.1 [build 3750]-All Plugins Edition Windows-64Bit**  
   `magnet:?xt=urn:btih:7C922F89C84DF9D65177C91D43F201BF6383B02F`
   (来源于[AudioTools](https://audiotools.in/2021/08/05/flstudio-v20-8-3-2304-win-mac/))
 ## 声明
