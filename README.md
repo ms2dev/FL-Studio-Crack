@@ -7,10 +7,10 @@
 
 - `Win`  **FL Studio Producer Edition v21.1.1 [build 3750] 全插件版**
 
-  - Setup
-  - [flstudio 21.1.1 3750主程序](https://www.mediafire.com/file/6vm3uuhd9uf3ppb/flstudio_win64_21.1.1.3750.exe/file)
+  - `Setup`
+    - [`flstudio 21.1.1 3750主程序`](https://www.mediafire.com/file/6vm3uuhd9uf3ppb/flstudio_win64_21.1.1.3750.exe/file)
   
-  - Crack
+  - `Crack`
     - [flstudio_reg.reg](https://www.mediafire.com/file/231mgbogwmf4tfs/FLStudio_reg.reg/file)
     - [fl64.exe](https://www.mediafire.com/file/k2c8qt37bp4tkzv/FL64.exe/file)
     - [fl64(scaled).exe](https://www.mediafire.com/file/9dy4bnbkdoyj2bb/FL64+(scaled).exe/file)
