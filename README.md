@@ -10,7 +10,9 @@
   ├── **Setup**
   
   │   └── [flstudio 21.1.1 3750主程序](https://www.mediafire.com/file/6vm3uuhd9uf3ppb/flstudio_win64_21.1.1.3750.exe/file)
+  
   │
+  
   ├── **Crack**
   
       ├── [flstudio_reg.reg](https://www.mediafire.com/file/231mgbogwmf4tfs/FLStudio_reg.reg/file)
