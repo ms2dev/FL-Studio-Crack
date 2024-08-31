@@ -13,8 +13,7 @@
   - **Crack**
     - [**`flstudio_reg.reg`**](https://www.mediafire.com/file/231mgbogwmf4tfs/FLStudio_reg.reg/file)
     - [**`Fl64.exe`**](https://www.mediafire.com/file/k2c8qt37bp4tkzv/FL64.exe/file)
-    - <img width="104" alt="image" src="https://github.com/user-attachments/assets/14baa198-a11b-4c6d-8efe-61daf7a8a8dd">
-[**`FL64(scaled).exe`**](https://www.mediafire.com/file/9dy4bnbkdoyj2bb/FL64+(scaled).exe/file)
+    - [**`FL64(scaled).exe`**](https://www.mediafire.com/file/9dy4bnbkdoyj2bb/FL64+(scaled).exe/file)
     - [**`FLEngine_x64.dll`**](https://www.mediafire.com/file/22w0wwo4tdal55b/FLEngine_x64.dll/file)
 
 - `Mac`  **FL Studio v20.8.3 [build 1574] 制作人版**
